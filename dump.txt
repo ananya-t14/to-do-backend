@@ -1,0 +1,22 @@
+// ECMAScript 6 - ES6
+
+// React = {
+    //     a,b,c
+    // }
+    
+// export default function () {}
+// import React from 'react';
+// import {default as React} from 'react';
+// import * as React from 'react';
+// import {useState} from 'react';
+
+// export function A(){}
+// import {A} from 'filename'
+// import {* as React} from 'react'
+
+
+1. Import Express
+2. Create Express App
+3. Create a port
+4. Create a route
+5. Listen to the port
