@@ -9,7 +9,7 @@ connectDB();
 
 app.get('/', async (req,res)=>{
     const users = await Users.findAll()
-    res.json({status:200,data:'Hello Bhosadike', users:users})
+    res.json({status:200,data:'Hello World!', users:users})
 })
 
 
